@@ -45,11 +45,12 @@ npm run build
 ## Screenshots
 
 ### Homepage
-![](/Images/HOMEPAGE.png)
+<img width="1275" alt="HOMEPAGE" src="https://user-images.githubusercontent.com/34244004/207309103-adf57c10-c91b-4334-afbb-6b4539ef566c.png">
 
 ### Dashboard
-![](/Images/Dashboard.png)
+<img width="1254" alt="Dashboard" src="https://user-images.githubusercontent.com/34244004/207309062-8d645751-537d-45f9-9013-7f238125bc0e.png">
 
 ### Live Demo
-![](/Images/demo.gif)
+![demo](https://user-images.githubusercontent.com/34244004/207309081-967fb85e-7bd9-4f43-b7aa-d0fc5b1d4473.gif)
+
 
